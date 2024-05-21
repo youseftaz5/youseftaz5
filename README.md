@@ -1,26 +1,6 @@
 # Welcome to My GitHub Profile!
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    margin: 0;  /* Remove default body margin for better centering */
-  }
-  .image-container {
-    text-align: center;  /* Center the image using text-align */
-  }
-  img {
-    width: 100%;  /* Use 100% width for responsive behavior */
-    max-width: 500px;  /* Set a maximum width if needed */
-  }
-</style>
-</head>
-<body>
-  <div class="image-container">
-    <img src="study.gif">
-  </div>
-</body>
-</html>
+
+<img src="study.gif">
 
 👋 Hello! I'm a passionate Data Analyst with a strong background in data visualization, statistical analysis, and programming. My goal is to uncover insights from data and help businesses make informed decisions.
 
