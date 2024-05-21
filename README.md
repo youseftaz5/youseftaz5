@@ -58,4 +58,7 @@ I'm always open to connecting with other professionals and collaborating on exci
 - [LinkedIn](https://www.linkedin.com/in/yousef-abdelrahman/)
 - [Twitter](https://twitter.com/yousefA_3)
 
+## Resume
+[Resume](https://github.com/youseftaz5/youseftaz5/blob/master/yousefabdelrahman.pdf)
+
 Thank you for visiting my GitHub profile! Lookering forward to connecting with you.
