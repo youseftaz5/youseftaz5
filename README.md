@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-<center><img src="study.gif" width= 500, height=500></center>
+
 
 👋 Hello! I'm a passionate Data Analyst with a strong background in data visualization, statistical analysis, and programming. My goal is to uncover insights from data and help businesses make informed decisions.
 
