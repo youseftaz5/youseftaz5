@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
-
-
+<p align = "center">
+<img src = "https://github.com/youseftaz5/youseftaz5/assets/47197442/bdd8f4f2-291b-46e2-8fbf-18cf4959e077" hieght = "300" width = "300">
+</p>
 
 👋 Hello! I'm a passionate Data Analyst with a strong background in data visualization, statistical analysis, and programming. My goal is to uncover insights from data and help businesses make informed decisions.
 
@@ -49,8 +50,8 @@ I am proficient in a variety of tools and technologies that help me analyze and 
 
 
 ## 📫  Email
-- [Bussines](yousefabdelrahman39@hotmail)
-- [Personal](youseftaz5@gmail.com)
+- [Bussines](mailto:yousefabdelrahman39@hotmail)
+- [Personal](mailto:youseftaz5@gmail.com)
 
 I'm always open to connecting with other professionals and collaborating on exciting projects. You can find me on:
 
