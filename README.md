@@ -50,8 +50,8 @@ I am proficient in a variety of tools and technologies that help me analyze and 
 
 
 ## 📫  Email
-- [Bussines](yousefabdelrahman39@hotmail)
-- [Personal](youseftaz5@gmail.com)
+- [Bussines](mailto:yousefabdelrahman39@hotmail)
+- [Personal](mailto:youseftaz5@gmail.com)
 
 I'm always open to connecting with other professionals and collaborating on exciting projects. You can find me on:
 
